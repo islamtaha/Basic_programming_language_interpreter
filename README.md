@@ -1,2 +1,2 @@
-# Basic_programming_language_interpreter
+# Basic programming language interpreter
 an interpreter for Basic programming language inplemented in Java
